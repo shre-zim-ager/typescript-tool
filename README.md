@@ -19,3 +19,5 @@ Follow the examples provided in the repository to learn how to use different Typ
 ## Future Plans
 - Include more libraries and tools in the examples.
 - Provide detailed tutorials on advanced TypeScript topics.
+- Add unit tests for existing examples.
+- Create a demo application showcasing the tools in action.
